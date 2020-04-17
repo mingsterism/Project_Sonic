@@ -1,1 +1,3 @@
-### Overview for Project Sonic
+## Overview for Project Sonic
+
+### Project Scope
